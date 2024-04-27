@@ -1,0 +1,11 @@
+#site_name: 智算云途 by SElab-AIG
+# 项目信息
+site_name: 智算云途 by SElab-AIG # 项目名称
+site_url: https://selab-aig.io
+site_author: SElab-AIG
+# 主题
+theme:
+  name: material
+  palette:
+    primary: 'indigo'
+    accent: 'indigo'
