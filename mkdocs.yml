@@ -1,11 +1,31 @@
 #site_name: 智算云途 by SElab-AIG
 # 项目信息
 site_name: 智算云途 by SElab-AIG # 项目名称
-site_url: https://selab-aig.io
+site_url: https://ar-gas.github.io/selab-aig.io/
 site_author: SElab-AIG
+
+# 导航栏
+# 没搞懂，暂时搁置，这个功能可以自定义导航栏（顺序 和 内容）
+nev:
+  - 导航:
+  - 新闻:
+  - 语法:
+  - 算法:
+  - 关于我们:
+
 # 主题
 theme:
   name: material
+  logo: images/logo.png
+  favicon: images/logo.png
   palette:
     primary: 'indigo'
     accent: 'indigo'
+  # 导航功能
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.tabs
+    - navigation.expand
+    - navigation.path
+#    - toc.integrate 
