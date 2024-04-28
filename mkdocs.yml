@@ -1,7 +1,7 @@
 #site_name: 智算云途 by SElab-AIG
 # 项目信息
 site_name: 智算云途 by SElab-AIG # 项目名称
-site_url: https://ar-gas.github.io/selab-aig.io/
+site_url: https://selab-aig.io/
 site_author: SElab-AIG
 
 # 导航栏
@@ -21,7 +21,7 @@ nav:
     - 题单介绍: 题单/1.md
   - 关于我们:
     - 算法组介绍: 关于我们/intro.md
-    
+
 # 主题
 theme:
   name: material
