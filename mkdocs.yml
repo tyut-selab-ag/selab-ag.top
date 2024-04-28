@@ -7,6 +7,20 @@ site_author: SElab-AIG
 # 导航栏
 # 没搞懂，暂时搁置，这个功能可以自定义导航栏（顺序 和 内容）
 
+nav:  
+  - 新闻:
+    - 最新新闻: 新闻/1.md  #.md文件的相对路径
+  - 关于我们:
+    - 算法组介绍: 关于我们/intro.md
+  - 语法:
+    - 语法介绍: 语法/1.md
+  - 算法:
+    - 基础算法: 算法/基础算法/1.md
+    - 进阶算法: 算法/竞赛算法.md
+  - 比赛:
+    - 竞赛介绍: 比赛/1.md
+  - 题单:
+    - 题单介绍: 题单/1.md
 
 # 主题
 theme:
@@ -14,9 +28,11 @@ theme:
   logo: images/logo.png
   favicon: images/logo.png
   palette:
-    primary: 'indigo'
-    accent: 'indigo'
+    primary: indigo
+    accent: indigo
+
   # 导航功能
+
   features:
     - navigation.instant
     - navigation.instant.prefetch
@@ -24,3 +40,14 @@ theme:
     - navigation.expand
     - navigation.path
 #    - toc.integrate 
+
+# 页脚
+copyright: Copyright &copy; 2022~2024 TYUT-SElab-AIG Rights Reserved.
+generator: true  #删除页脚显示“使用 MkDocs 材料制造”
+
+# Cookies
+consent:
+   title: Cookie consent
+   description: >- 
+     我们也使用cookies来识别您的重复访问和偏好来衡量我们文档的有效性以及用户是否找到他们要找的东西。
+     如果你同意,你可以帮助我们让我们的网站更好
