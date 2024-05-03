@@ -18,6 +18,8 @@ Supported by Taiyuan University of Technology Software School Innovation Laborat
 
 # 目前更新计划
 
+详见：[Link](https://github.com/Ar-Gas/selab-aig.github.io/discussions/1)
+
 比赛模块：放入比赛时间（消息）、往年真题、训练计划
 
 语法&算法模块：更新基础知识，帮助更多人入门
