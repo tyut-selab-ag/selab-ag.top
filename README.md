@@ -15,3 +15,9 @@ Supported by Taiyuan University of Technology Software School Innovation Laborat
 □docs内新加文件是.md格式吗？
 
 □mkdocs.yml文件下的nev更改正确了吗？有没有把正确的路径写上去？格式？
+
+# 目前更新计划
+
+比赛模块：放入比赛时间（消息）、往年真题、训练计划
+
+语法&算法模块：更新基础知识，帮助更多人入门
