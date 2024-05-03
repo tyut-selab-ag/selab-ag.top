@@ -3,6 +3,9 @@
 site_name: 智算云途 by SElab-AIG # 项目名称
 site_url:  https://www.selab-aig.top
 site_author: SElab-AIG
+# github 仓库链接
+repo_url: https://github.com/Ar-Gas/selab-aig.github.io
+repo_name: 智算云途 By SElab
 
 # 导航栏
 # 这个功能可以自定义导航栏（顺序 和 内容）
@@ -30,7 +33,11 @@ theme:
   palette:
     primary: indigo
     accent: indigo
-
+  
+  # github 图标
+  icon: 
+    repo: fontawesome/brands/github
+  
   # 导航功能
 
   features:
