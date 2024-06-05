@@ -1,8 +1,8 @@
-#site_name: 智算云途 by SElab-AIG
+#site_name: 智算云途 by SElab-Algorithm Group 
 # 项目信息
-site_name: 智算云途 by SElab-AIG # 项目名称
+site_name: 智算云途 by SElab-AG # 项目名称
 site_url:  https://www.selab-aig.top
-site_author: SElab-AIG
+site_author: SElab-AG
 # github 仓库链接
 repo_url: https://github.com/Ar-Gas/selab-aig.github.io
 repo_name: 智算云途 By SElab
@@ -49,7 +49,7 @@ theme:
 #    - toc.integrate 
 
 # 页脚
-copyright: Copyright &copy; 2022~2024 TYUT-SElab-AIG Rights Reserved.
+copyright: Copyright &copy; 2022~2024 TYUT-SElab-AG Rights Reserved.
 generator: true  #删除页脚显示“使用 MkDocs 材料制造”
 
 # Cookies
