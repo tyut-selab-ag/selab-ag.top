@@ -30,7 +30,7 @@ nav:
 # 主题
 theme:
   name: material
-  logo: images/logo.png
+  logo: images/智算云途logo.png
   favicon: images/logo.png
   palette:
     primary: indigo
