@@ -20,7 +20,8 @@ nav:
     - 进阶算法: 算法/进阶算法/进阶算法.md
     - 面试算法: 
       - 目录: 算法/面试算法/面试算法目录.md
-      - LeetCode Hot: 算法/面试算法/LeetCode Hot 100/1.md
+      - LeetCode Hot: 
+        - 两数之和(easy): 算法/面试算法/LeetCode Hot 100/两数之和.md
       - 剑指Offer: 算法/面试算法/剑指offer/1.md
   - 比赛:
     - 比赛介绍&时间: 比赛/比赛时间.md
