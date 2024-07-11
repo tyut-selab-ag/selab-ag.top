@@ -31,7 +31,7 @@ nav:
 theme:
   name: material
   logo: images/智算云途logo.png
-  favicon: images/logo.png
+  favicon: images/智算云途logo.png
   palette:
     primary: indigo
     accent: indigo
