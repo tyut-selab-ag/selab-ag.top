@@ -1,5 +1,3 @@
-<meta name="msvalidate.01" content="F6014B0223A8A6F76A96AF3BEB33DD82" />
-
 欢迎来到智算云途！
 
 本网站提供算法组日常新闻、语法&算法等知识、比赛信息、算法组介绍
