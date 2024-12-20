@@ -6,7 +6,7 @@ Supported by Taiyuan University of Technology Software School Innovation Laborat
 
 # 网站维护
 
-本网站是开源项目，使用开源框架[Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)搭建，遵循 CC-BY-4.0 license 开源协议，如何参与本网站的开发？[面向0基础的教程在这里](https://github.com/Ar-Gas/selab-aig.github.io/discussions/2)
+本网站是开源项目，使用开源框架[Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)搭建，遵循 CC-BY-4.0 license 开源协议，如何参与本网站的开发？[面向0基础的教程在这里，如何提交更改](https://github.com/Ar-Gas/selab-aig.github.io/discussions/2)
 
 所有人均可以维护，请遵守本项目维护的基本要求：（详情看教程）
 
